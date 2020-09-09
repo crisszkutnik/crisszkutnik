@@ -1,9 +1,11 @@
-<h2 align="center">Hello! I'm Cristobal Szkutnik</h2>
+<h2 align="center">👋 Hello! I'm Cristobal Szkutnik</h2>
 
 - 📖  Systems engineering student
 - 📈  Most experienced on JavaScript
 - ✉️  Reach me through my email: **crisszkutnik@gmail.com**
 - 🏢  Not employed, but working on several personal projects
+
+-------
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -36,6 +38,8 @@ TypeScript               1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+-------
 
 ### 🔧 Technologies and tools
 <div>
