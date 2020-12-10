@@ -14,15 +14,13 @@
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-SCSS                     11 mins             ███████████░░░░░░░░░░░░░░   47.01% 
-TypeScript               8 mins              █████████░░░░░░░░░░░░░░░░   36.98% 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-crisszkutnik.github.io   23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
