@@ -4,6 +4,7 @@
 - 📈  Most experienced on JavaScript
 - ✉️  Reach me through my email: **crisszkutnik@gmail.com**
 - 🏢  Not employed, but working on several personal projects
+- 🟩  Spotting my finals weeks is as easy as looking for huge gaps on my commit history.
 
 -------
 
