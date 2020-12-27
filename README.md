@@ -25,14 +25,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Wollok** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Wollok                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Haskell                  3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Prolog                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Wollok                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Haskell                  3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Prolog                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
