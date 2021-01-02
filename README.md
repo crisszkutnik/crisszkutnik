@@ -25,14 +25,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
 Wollok                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Haskell                  3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Prolog                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Haskell                  3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
