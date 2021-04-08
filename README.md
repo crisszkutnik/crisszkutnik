@@ -15,14 +15,13 @@
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Python                   40 mins             ███████████████████████░░   92.26% 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-C--                      44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
