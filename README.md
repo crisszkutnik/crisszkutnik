@@ -2,7 +2,6 @@
 
 - 📖  Systems engineering student
 - 📈  Most experienced on JavaScript/TypeScript
-- 🏢  Not employed, but working on several personal projects
 - 🟩  Spotting my finals weeks is as easy as looking for huge gaps on my commit history.
 
 Reach me through: 
